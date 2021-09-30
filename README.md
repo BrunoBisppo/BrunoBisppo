@@ -3,8 +3,8 @@
 ### Sobre mim
 
 - 👨‍🎓 Estudante de Redes de Computadores, atualmente estou cursando o 2° semestre.
-- 🎯 Interesse: HTML, CSS, JavaScript, Angular, API.
-- 🦊 Estou Estudando para ser um bom profissional de Front-end
+- 🎯 Interesse: Python, API.
+- 🦊 Estou Estudando para ser um bom profissional de Back-end
 
 ## Linguagens Aprendidas 😄:
 
