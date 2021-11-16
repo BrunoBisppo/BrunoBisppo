@@ -3,14 +3,8 @@
 ### Sobre mim
 
 - 👨‍🎓 Estudante de Redes de Computadores, atualmente estou cursando o 2° semestre.
-- 🎯 Interesse: Python, API.
-- 🦊 Estou Estudando para ser um bom profissional de Back-end
-
-## Linguagens Aprendidas 😄:
-
- <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+- 🎯 Interesse: Html, Css, JavaScript.
+- 🦊 Estou Estudando para ser um bom profissional de Front-End
 
 ## Contato :iphone:
 
