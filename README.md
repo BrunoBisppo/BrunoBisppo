@@ -2,9 +2,9 @@
 
 ### Sobre mim
 
-- 👨‍🎓 Estudante de Redes de Computadores, atualmente estou cursando o 2° semestre.
-- 🎯 Interesse: Html, Css, JavaScript.
-- 🦊 Estou Estudando para ser um bom profissional de Front-End
+- 👨‍🎓 Estudando muito varias linguagems de programação
+- 🎯 Interesse: JavaScript.
+- 🦊 Estou Estudando para ser um bom profissional de Back-End
 
 ## Contato :iphone:
 
