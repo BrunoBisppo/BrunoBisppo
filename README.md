@@ -2,9 +2,9 @@
 
 ### Sobre mim
 
-- 👨‍🎓 Estudando JS, SQL
+- 👨‍🎓 Estudando JS, HTML, CSS
 - 🎯 Interesse: JavaScript, hmtl e css.
-- 🦊 Estou Estudando para ser o melhor Programador Back-End do mundo
+- 🦊 Estou Estudando para ser o melhor Programador do mundo
 ## Contato :iphone:
 
 <p>
