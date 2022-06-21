@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Estudando JS, HTML, CSS
 - 🎯 Interesse: JavaScript, hmtl e css.
-- 🦊 Estou Estudando para ser o melhor Programador do mundo
+- 🦊 Estou Estudando para ser o melhor Programador possível 
 ## Contato :iphone:
 
 <p>
