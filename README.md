@@ -6,7 +6,7 @@
 ### <div align="center">Olá, eu sou o Bruno Bispo | Desenvolvedor Front-End jr 🚀</div>  
   
 
-## **<div align="center">Sobre mim:</div>**  
+## **<div align="left">Sobre mim:</div>**  
   
 
 - 👨‍🎓 Estudando JS, HTML, CSS  
